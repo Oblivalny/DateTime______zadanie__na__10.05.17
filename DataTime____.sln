@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTime____", "DataTime___
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_30__10.05.17", "Zadanie_30__10.05.17\Zadanie_30__10.05.17.csproj", "{8E3225BF-A2F8-4480-8378-087DC4BDDBF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrici_30_Up__10.05.17", "Matrici_30_Up__10.05.17\Matrici_30_Up__10.05.17.csproj", "{31B32F11-5D3B-4F80-AD00-4F29625EC603}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8E3225BF-A2F8-4480-8378-087DC4BDDBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E3225BF-A2F8-4480-8378-087DC4BDDBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E3225BF-A2F8-4480-8378-087DC4BDDBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B32F11-5D3B-4F80-AD00-4F29625EC603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B32F11-5D3B-4F80-AD00-4F29625EC603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B32F11-5D3B-4F80-AD00-4F29625EC603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B32F11-5D3B-4F80-AD00-4F29625EC603}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
